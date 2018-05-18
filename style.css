@@ -273,7 +273,7 @@ footer {
 /*# sourceMappingURL=style.css.map */
 
 .box {
-  background-image: url("../images/corp.jpg");
+  background-image: url("./images/corp.jpg");
   height: 500px;
   width: 100%;
   background-size: cover;
