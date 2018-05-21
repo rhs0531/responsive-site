@@ -301,3 +301,12 @@ footer {
     border-radius:5px;
     margin: 0 auto 50px;
 }
+
+
+@media (max-width: 786px) {
+  .box {
+    height: 250px;
+  }
+}
+
+.text{margin: 30px}
